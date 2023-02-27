@@ -1,6 +1,6 @@
 # passwordless-dotnetcoreapi-nextjs
  
- This is a .NET Core Web API and NextJs project that uses passwordless - FIDO2 and WebAuth - protocols to authenticate a user with no password. 
+ This is a .NET Core Web API - NextJs - MongoDb project that uses passwordless - FIDO2 and WebAuthn - protocols to authenticate a user with no password. 
  
  Explanation is on my blog post here: <a href="https://thoughtsonprogramming.wordpress.com/2023/02/26/build-a-passwordless-app-with-fido2-webauthn-net-core-api-nextjs-and-mongodb/">https://thoughtsonprogramming.wordpress.com/2023/02/26/build-a-passwordless-app-with-fido2-webauthn-net-core-api-nextjs-and-mongodb/</a>
  
